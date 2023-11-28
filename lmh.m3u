@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="第01集" group-title="甄嬛传", 第01集｜胤禛登基启选秀 三位小主秋入围
+https://vip.lz-cdn.com/20220317/261_b6f12296/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV1「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="CCTV2" group-title="IPV6·央视",CCTV2「IPV6」
