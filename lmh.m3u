@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="第01集" group-title="甄嬛传", 第01集｜胤禛登基启选秀 三位小主秋入围
-https://vip.lz-cdn.com/20220317/261_b6f12296/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV1「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="CCTV2" group-title="IPV6·央视",CCTV2「IPV6」
@@ -999,6 +997,304 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="•港澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="甄嬛传",01｜胤禛登基启选秀 三位小主秋入围
+https://vip.lz-cdn.com/20220317/261_b6f12296/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",02｜芳若教引莞常在 甄嬛入住碎玉轩
+https://vip.lz-cdn.com/20220317/262_6986f922/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",03｜皇后华妃暗较劲 殃及池鱼夏冬春
+https://vip.lz-cdn.com/20220317/263_d1c722e4/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",04｜甄嬛受惊风寒染 眉庄获宠华妃妒
+https://vip.lz-cdn.com/20220317/264_f170126a/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",05｜倚梅园甄嬛祈福 余莺儿冒充上位
+https://vip.lz-cdn.com/20220317/265_eb44f4d7/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",06｜余氏骄横惹众怒 郎嬛初遇御花园
+https://vip.lz-cdn.com/20220317/266_59de16d8/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",07｜甄嬛晋封莞贵人 余氏被贬官女子
+https://vip.lz-cdn.com/20220317/267_5b8f5eb3/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",08｜皇帝赐浴汤泉宫 甄嬛承椒房恩宠
+https://vip.lz-cdn.com/20220317/268_13b7822f/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",09｜华妃挑拨姐妹情 眉庄隐忍受算计
+https://vip.lz-cdn.com/20220317/269_9336e696/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",10｜甄嬛汤药遭下毒 余氏冷宫被勒死
+https://vip.lz-cdn.com/20220317/270_fd3192ed/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",11｜丽嫔被废入冷宫 华妃暂失协理权
+https://vip.lz-cdn.com/20220317/271_a91cb518/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",12｜曹琴默兴风作浪 沈眉庄怀孕养胎
+https://vip.lz-cdn.com/20220317/272_938d892c/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",13｜温宜公主周岁宴 甄嬛当众惊鸿舞
+https://vip.lz-cdn.com/20220317/273_13fdb1e7/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",14｜陵容父亲陷牢狱 浣碧着意图圣宠
+https://vip.lz-cdn.com/20220317/274_e14429bd/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",15｜眉庄陷假孕风波 华妃恨甄嬛作梗
+https://vip.lz-cdn.com/20220317/275_f8f28b24/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",16｜芳若递甄嬛心意 陵容凭歌声擅宠
+https://vip.lz-cdn.com/20220317/276_a4530dc4/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",17｜甄嬛被怀疑下毒 端妃替甄嬛作证
+https://vip.lz-cdn.com/20220317/277_ddcecae1/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",18｜甄嬛试探曹琴默 将计就计诱华妃
+https://vip.lz-cdn.com/20220317/278_e39c9b44/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",19｜甄嬛探望沈眉庄 夜审浣碧施恩威
+https://vip.lz-cdn.com/20220317/279_988c5e9b/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",20｜果郡王离京游蜀 年羹尧还朝庆功
+https://vip.lz-cdn.com/20220317/280_21bcd657/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",21｜华妃轻狂作贱人 皇后笼络安陵容
+https://vip.lz-cdn.com/20220317/281_b8200634/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",22｜甄嬛论朋党之事 淳儿引寝衣风波
+https://vip.lz-cdn.com/20220317/282_24b4fa40/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",23｜温实初苦寻良方 沈眉庄沉冤得雪
+https://vip.lz-cdn.com/20220317/283_64883ca3/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",24｜华妃借药方复宠 陵容因误会生隙
+https://vip.lz-cdn.com/20220317/284_cad31595/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",25｜猫发情富察流产 意外知甄嬛怀孕
+https://vip.lz-cdn.com/20220317/285_3dc49ecb/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",26｜华妃不孕请名医 陵容打胎赠药膏
+https://vip.lz-cdn.com/20220317/286_7b66f5ed/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",27｜甄嬛谈笑除两江 淳儿无意遭灭口
+https://vip.lz-cdn.com/20220317/287_8d3a8251/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",28｜皇后筹谋倒华妃 陵容假意护甄嬛
+https://vip.lz-cdn.com/20220317/288_a242b115/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",29｜皇后借机夺皇子 甄嬛罚跪致小产
+https://vip.lz-cdn.com/20220317/289_83c066e7/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",30｜年羹尧上书谏言 皇帝处两难境地
+https://vip.lz-cdn.com/20220317/290_0b7934ea/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",31｜甄嬛失子多哀怨 陵容趁虚获圣宠
+https://vip.lz-cdn.com/20220317/291_27233870/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",32｜皇后护陵容争宠 端妃劝甄嬛耐心
+https://vip.lz-cdn.com/20220317/292_cd7ff186/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",33｜冷宫感前车之鉴 长街受掌掴之辱
+https://vip.lz-cdn.com/20220317/293_c19147d7/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",34｜倚梅园甄嬛复宠 准噶尔使人求亲
+https://vip.lz-cdn.com/20220317/294_21648e3e/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",35｜曹贵人投城倒戈 甄嬛显政治才能
+https://vip.lz-cdn.com/20220317/295_2f8d550b/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",36｜甄嬛助华妃复位 甄父搜年氏罪状
+https://vip.lz-cdn.com/20220317/296_e5f8bed0/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",37｜甄嬛拉拢曹贵人 皇后授意安陵容
+https://vip.lz-cdn.com/20220317/297_1aad1400/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",38｜华妃曲意献颂芝 郎嬛联手演好戏
+https://vip.lz-cdn.com/20220317/298_eadb81fa/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",39｜甄嬛被贬蓬莱洲 皇帝拿下敦亲王
+https://vip.lz-cdn.com/20220317/299_96ba7ce3/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",40｜年氏倒台失恩宠 襄嫔告发寻靠山
+https://vip.lz-cdn.com/20220317/300_7614598f/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",41｜华妃余威今犹在 襄嫔居心遭嫌弃
+https://vip.lz-cdn.com/20220317/301_0b9be9b6/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",42｜甄嬛冷宫送年氏 端妃奉旨养温宜
+https://vip.lz-cdn.com/20220317/302_aeb89579/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",43｜皇帝甄父生芥蒂 甄嬛册封惹风波
+https://vip.lz-cdn.com/20220317/303_cd458455/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",44｜甄嬛禁足有身孕 当年小产知真相
+https://vip.lz-cdn.com/20220317/304_4d1e681d/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",45｜菀菀类卿伤人心 甄嬛早产诞胧月
+https://vip.lz-cdn.com/20220317/305_c1315c50/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",46｜甄嬛修行受欺凌 皇后扩张植势力
+https://vip.lz-cdn.com/20220317/306_9c5223b7/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",47｜皇后进香甘露寺 甄嬛偶遇舒太妃
+https://vip.lz-cdn.com/20220317/307_76212a54/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",48｜果郡王舍身相救 甄嬛仍拒绝好意
+https://vip.lz-cdn.com/20220317/308_e9051329/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",49｜太后毒杀隆科多 甄嬛接受果郡王
+https://vip.lz-cdn.com/20220317/309_e592f239/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",50｜纵欲过度得高烧 皇帝病中唤嬛嬛
+https://vip.lz-cdn.com/20220317/310_9a52aec2/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",51｜甄嬛允礼许终身 齐妃下药害叶氏
+https://vip.lz-cdn.com/20220317/311_50b7e423/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",52｜皇后地位得巩固 甄父病危待施救
+https://vip.lz-cdn.com/20220317/312_228bcf28/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",53｜怀孕小主欲复仇 槿汐舍身助甄嬛
+https://vip.lz-cdn.com/20220317/313_3b4eb6ba/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",54｜甄嬛回宫被搁置 皇后暗算四阿哥
+https://vip.lz-cdn.com/20220317/314_25265b66/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",55｜太后促甄嬛回宫 果郡王死而复生
+https://vip.lz-cdn.com/20220317/315_d8e684eb/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",56｜钮祜禄甄嬛回宫 坐轿中险遭暗算
+https://vip.lz-cdn.com/20220317/316_603bdeab/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",57｜欣贵人主动投城 安陵容挑拨暗示
+https://vip.lz-cdn.com/20220317/317_984e763a/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",58｜皇后党开始内斗 沈眉庄偷情怀孕
+https://vip.lz-cdn.com/20220317/318_c1502e06/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",59｜敬妃告发崔槿汐 端妃相助终获释
+https://vip.lz-cdn.com/20220317/319_d7877499/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",60｜叶氏误解抱不平 甄嬛诞下龙凤胎
+https://vip.lz-cdn.com/20220317/320_c410d3a8/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",61｜甄嬛敬妃释前嫌 安祺争宠闹内讧
+https://vip.lz-cdn.com/20220317/321_892cf3b3/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",62｜陵容冰舞再获宠 甄嬛私通被告发
+https://vip.lz-cdn.com/20220317/322_45f607c4/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",63｜滴血验亲求真相 皇后圈套被识破
+https://vip.lz-cdn.com/20220317/323_75d779ef/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",64｜眉庄产女致血崩 皇帝钟情甄玉娆
+https://vip.lz-cdn.com/20220317/324_a8423b50/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",65｜甄嬛欲除瓜尔佳 浣碧嫁给果郡王
+https://vip.lz-cdn.com/20220317/325_5449b7f8/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",66｜玉隐荐采蘋入宫 玉娆与允禧成婚
+https://vip.lz-cdn.com/20220317/326_132db869/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",67｜陵容怀孕救父亲 甄嬛请旨封六宫
+https://vip.lz-cdn.com/20220317/327_02423900/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",68｜暖情香争宠事发 安陵容最后告别
+https://vip.lz-cdn.com/20220317/328_23d3338c/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",69｜玉隐孟氏闹矛盾 弘时爱慕瑛贵人
+https://vip.lz-cdn.com/20220317/329_df642328/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",70｜瑛贵人被赐白绫 三阿哥结交大臣
+https://vip.lz-cdn.com/20220317/330_98fa20e4/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",71｜甄嬛以死胎碰瓷 剪秋用性命下毒
+https://vip.lz-cdn.com/20220317/331_ee4d2af8/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",72｜纯元去世真相白 帝后死生不复见
+https://vip.lz-cdn.com/20220317/332_8f5d7617/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",73｜甄嬛摩格私相见 皇帝计诱果郡王
+https://vip.lz-cdn.com/20220317/333_841e38d4/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",74｜甄嬛毒酒送允礼 玉隐撞棺殉王爷
+https://vip.lz-cdn.com/20220317/334_567ccebb/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",75｜宁嫔下慢性毒药 皇帝疑弘曕身世
+https://vip.lz-cdn.com/20220317/335_a0faf2d6/index.m3u8
+#EXTINF:-1 group-title="甄嬛传",76｜知真相皇帝驾崩 忆往昔甄嬛落寞
+https://vip.lz-cdn.com/20220317/336_6c2c41c2/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",01|盛明兰替兄投壶赢头彩
+https://vip.lz-cdn.com/20220606/17361_7605a65a/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",02| 廷烨遭遇刺杀不幸落海
+https://vip.lz-cdn.com/20220606/17362_83029b4e/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",03| 大夫救治不及卫氏惨死
+https://vip.lz-cdn.com/20220606/17363_a2b64a2a/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",04| 祖母心善提出照看明兰
+https://vip.lz-cdn.com/20220606/17364_94aeb6b7/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",05| 明兰被罚巧用美食贿赂
+https://vip.lz-cdn.com/20220606/17365_ae3a62a5/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",06| 辜负元若心意明兰致歉
+https://vip.lz-cdn.com/20220606/17366_46ed3b26/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",07| 王氏哭诉盛纮拂袖而去
+https://vip.lz-cdn.com/20220606/17367_82890357/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",08| 顾偃开另有所图负白氏
+https://vip.lz-cdn.com/20220606/17368_4ef4255c/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",09| 明兰大智若愚嬷嬷夸赞
+https://vip.lz-cdn.com/20220606/17369_498d225e/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",10| 墨兰如兰惹争端遭责罚
+https://vip.lz-cdn.com/20220606/17370_6937c932/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",11| 嫡庶之争明兰见地不凡
+https://vip.lz-cdn.com/20220606/17371_419bb0d6/index.m3u8	
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",12| 长柏进士及母亲大喜
+https://vip.lz-cdn.com/20220606/17372_409cda4e/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",13| 盛纮被扣内宫盛家惊慌
+https://vip.lz-cdn.com/20220606/17373_98af84b3/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",14| 林噙霜见外男被污偷人
+https://vip.lz-cdn.com/20220606/17374_39692b57/index.m3u8	
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",15| 盛纮提拔明兰管理家事
+https://vip.lz-cdn.com/20220606/17375_aa044cec/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",16| 明兰英姿飒爽赢得金簪
+https://vip.lz-cdn.com/20220606/17376_ca970885/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",17| 齐衡表露心意再遭拒绝
+https://vip.lz-cdn.com/20220606/17377_c1c123b8/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",18| 顾廷烨求娶余嫣然遭拒
+https://vip.lz-cdn.com/20220606/17378_c9667535/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",19| 顾偃开吐血后不幸离世
+https://vip.lz-cdn.com/20220606/17379_0df2db27/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",20| 奶妈揭露朱曼娘真面目
+https://vip.lz-cdn.com/20220606/17380_f64be6a5/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",21| 齐衡欲娶明兰求母答应
+https://vip.lz-cdn.com/20220606/17381_a3f660f2/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",22| 祖母明兰欲回宥阳探亲
+https://vip.lz-cdn.com/20220606/17382_af4bf854/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",23| 明兰落水被顾廷烨所救
+https://vip.lz-cdn.com/20220606/17383_594bf95a/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",24| 淑兰错嫁被辱要求和离
+https://vip.lz-cdn.com/20220606/17384_fa6928cb/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",25| 明兰足智多谋助姐和离
+https://vip.lz-cdn.com/20220606/17385_1fd8f8cc/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",26| 明兰不负齐衡痴心等待
+https://vip.lz-cdn.com/20220606/17386_129b00e2/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",27| 明兰私会齐衡互通情愫
+https://vip.lz-cdn.com/20220606/17387_d10aa1bc/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",28| 齐衡被威胁辜负盛明兰
+https://vip.lz-cdn.com/20220606/17388_6051039e/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",29| 伯爵夫人中意明兰品性
+https://vip.lz-cdn.com/20220606/17389_d19d73b6/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",30| 墨兰发脾气划伤明兰脸
+https://vip.lz-cdn.com/20220606/17390_9be3fbc3/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",31| 盛墨兰玉清观私会梁晗
+https://vip.lz-cdn.com/20220606/17391_e89db4fa/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",32| 林噙霜机关算尽引众怒
+https://vip.lz-cdn.com/20220606/17392_1b0020c6/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",33| 林噙霜被杖刑送走病死
+https://vip.lz-cdn.com/20220606/17393_cab1b65f/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",34| 荣妃内应叛贼宫中大乱
+https://vip.lz-cdn.com/20220606/17394_8fdd36fc/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",35| 廷烨平叛有功得蒙圣恩
+https://vip.lz-cdn.com/20220606/17395_bde41a80/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",36| 盛明兰婚事突然生枝节
+https://vip.lz-cdn.com/20220606/17396_c964c100/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",37| 廷烨登门求娶盛家女儿
+https://vip.lz-cdn.com/20220606/17397_4e2fff5d/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",38| 廷烨作梗一心求娶明兰
+https://vip.lz-cdn.com/20220606/17398_82eaf9f0/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",39| 顾廷烨一往情深获芳心
+https://vip.lz-cdn.com/20220606/17399_24323e53/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",40| 廷烨爱重明兰此生不负
+https://vip.lz-cdn.com/20220606/17400_33ccec34/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",41| 小秦氏发难顾廷烨另居
+https://vip.lz-cdn.com/20220606/17401_b0595dfd/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",42| 明兰敲山震虎立威澄园
+https://vip.lz-cdn.com/20220606/17402_7269c802/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",43| 刁仆妇倚老卖老种祸根
+https://vip.lz-cdn.com/20220606/17403_999897c4/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",44| 拔除眼线澄园落得清净
+https://vip.lz-cdn.com/20220606/17404_969f8734/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",45| 勾销欠款顾廷烨救佃农
+https://vip.lz-cdn.com/20220606/17405_fd02a9af/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",46| 太后与新帝暗中争权力
+https://vip.lz-cdn.com/20220606/17406_fa8bc87c/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",47| 侯府有难阖族求助廷烨
+https://vip.lz-cdn.com/20220606/17407_077920d3/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",48| 廷煜一搏为妻女计长远
+https://vip.lz-cdn.com/20220606/17408_f1dc5ebd/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",49| 顾廷烨进爵盛明兰受封
+https://vip.lz-cdn.com/20220606/17409_fc815f88/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",50| 朱曼娘作孽昌哥儿骨枯
+https://vip.lz-cdn.com/20220606/17410_ce99fe3a/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",51| 元若以公徇私参奏廷烨
+https://vip.lz-cdn.com/20220606/17411_53ca391b/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",52| 梁晗得知盛墨兰施奸计
+https://vip.lz-cdn.com/20220606/17412_6ce8577d/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",53| 明兰棒喝元若大梦初醒
+https://vip.lz-cdn.com/20220606/17413_9c13a825/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",54| 盛明兰劝解沈家大娘子
+https://vip.lz-cdn.com/20220606/17414_b242b8a3/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",55| 丹橘不舍明兰离情难诉
+https://vip.lz-cdn.com/20220606/17415_d928f0bd/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",56| 皇帝追封生父众臣议论
+https://vip.lz-cdn.com/20220606/17416_523ba0bb/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",57| 桓王分父忧请命巡盐务
+https://vip.lz-cdn.com/20220606/17417_edee964c/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",58| 康王氏拿大常嬷嬷唾骂
+https://vip.lz-cdn.com/20220606/17418_419c67eb/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",59| 康兆儿被迫以死逼明兰
+https://vip.lz-cdn.com/20220606/17419_cb7c58d7/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",60| 盛明兰执剑救沈大娘子
+https://vip.lz-cdn.com/20220606/17420_be645464/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",61| 皇后素面朝天面圣请罪
+https://vip.lz-cdn.com/20220606/17421_bc81371c/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",62| 明兰气急揭露嫡母罪行
+https://vip.lz-cdn.com/20220606/17422_66c2eab8/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",63| 盛明兰出示康王氏罪证
+https://vip.lz-cdn.com/20220606/17423_d5dda6d8/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",64| 岳母保康氏心狠舍若弗
+https://vip.lz-cdn.com/20220606/17424_00b1db84/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",65| 丹橘成婚侯府贵眷送嫁
+https://vip.lz-cdn.com/20220606/17425_3a7c71e9/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",66| 惊闻廷烨噩耗明兰早产
+https://vip.lz-cdn.com/20220606/17426_a79f83d5/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",67| 康王氏欲伤明兰反被杀
+https://vip.lz-cdn.com/20220606/17427_827de180/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",68| 王氏进宫向太后诉冤屈
+https://vip.lz-cdn.com/20220606/17428_00b57c59/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",69| 王氏联合秦氏状告廷烨
+https://vip.lz-cdn.com/20220606/17429_2196f9de/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",70| 廷烨被判流放明兰痛哭
+https://vip.lz-cdn.com/20220606/17430_c0ab909b/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",71| 明兰替夫鸣冤当街疯癫
+https://vip.lz-cdn.com/20220606/17431_bef68d4a/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",72| 贵妃造反廷烨率兵救援
+https://vip.lz-cdn.com/20220606/17432_0982c867/index.m3u8
+#EXTINF:-1 group-title="知否知否应是绿肥红瘦",73| 顾廷烨盛明兰阖家团圆
+https://vip.lz-cdn.com/20220606/17433_19f6d1b5/index.m3u8
 #EXTINF:-1 group-title="•埋堆堆",埋堆堆1
 https://yang-1989.eu.org/live/huya/23749096
 #EXTINF:-1 group-title="•埋堆堆",埋堆堆2
