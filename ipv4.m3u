@@ -33,6 +33,8 @@ http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/ind
 http://cfss.cc/api/ysp/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" group-title="·央视",CCTV16
 http://cfss.cc/ds/ysp/qp.php?id=cctv16&Cf.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="·央视",CCTV17
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="·卫视",湖南卫视
 https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="·卫视",浙江卫视
@@ -99,10 +101,8 @@ http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&c
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1 group-title="·卫视",「TW」华视
 http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-#EXTINF:-1 group-title="·综艺",快乐垂钓
+#EXTINF:-1 group-title="·卫视",快乐垂钓
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNkZjI0NDM2NTkyYWNkNTk1NmUwYmM4Y2FmMDkwZWJhJmVzPTE3MDEzMzU2NTEmdXVpZD1lM2I2ODhkNjM2NTEzN2NhNWJhYzE1MGYwZDJmMWIyNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/KLCDMPP360.m3u8
-#EXTINF:-1 group-title="·综艺",河南梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=19b20073428d6e7f09edda489fcdd957&wsTime=1701312022
 #EXTINF:-1  group-title="·山东有线",山东齐鲁
 http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 #EXTINF:-1  group-title="·山东有线",山东体育
@@ -195,6 +195,10 @@ http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 group-title="•影视",「斗鱼」【经典小品2】
 http://diyp.112114.xyz/douyu/9067836
+#EXTINF:-1 group-title="·戏曲",河南梨园频道
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=19b20073428d6e7f09edda489fcdd957&wsTime=1701312022
+#EXTINF:-1 group-title="•戏曲",河南移动戏曲
+http://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=2b055e9cbfd385e1503f28b12f223856&wsTime=1701321024
 #EXTINF:-1 group-title="甄嬛传",01｜胤禛登基启选秀 三位小主秋入围
 https://vip.lz-cdn.com/20220317/261_b6f12296/index.m3u8
 #EXTINF:-1 group-title="甄嬛传",02｜芳若教引莞常在 甄嬛入住碎玉轩
