@@ -33,8 +33,6 @@ http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/ind
 http://cfss.cc/api/ysp/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" group-title="·央视",CCTV16
 http://cfss.cc/ds/ysp/qp.php?id=cctv16&Cf.m3u8
-/* #EXTINF:-1 tvg-name="CCTV17" group-title="·央视",CCTV17
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8 */
 #EXTINF:-1 tvg-name="湖南卫视" group-title="·卫视",湖南卫视
 https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="·卫视",浙江卫视
