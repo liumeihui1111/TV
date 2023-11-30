@@ -44,7 +44,7 @@ https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0b
 #EXTINF:-1 tvg-name="广东卫视" group-title="·卫视",广东卫视
 https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="·卫视",北京卫视
-http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1701300103&sign=e4b70fb942085434deed997c44b9e78e
 #EXTINF:-1 tvg-name="东南卫视" group-title="·卫视",东南卫视
 https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="·卫视",四川卫视
@@ -83,22 +83,26 @@ http://223.151.51.27:85//tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西卫视" group-title="·卫视",广西卫视
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="·卫视",深圳卫视
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「HK」凤凰卫视
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="·卫视",「HK」凤凰卫视
 https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="·卫视",「HK」凤凰中文
 http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「HK」凤凰资讯
 http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「HK」TVBS HD
+#EXTINF:-1 group-title="·卫视",「HK」TVBS HD
 http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「HK」翡翠台
+#EXTINF:-1  group-title="·卫视",「HK」翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「TW」民视新闻
+#EXTINF:-1 group-title="·卫视",「TW」民视新闻
 http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「TW」中视
+#EXTINF:-1 group-title="·卫视",「TW」中视
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「TW」华视
+#EXTINF:-1 group-title="·卫视",「TW」华视
 http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="·综艺",快乐垂钓
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNkZjI0NDM2NTkyYWNkNTk1NmUwYmM4Y2FmMDkwZWJhJmVzPTE3MDEzMzU2NTEmdXVpZD1lM2I2ODhkNjM2NTEzN2NhNWJhYzE1MGYwZDJmMWIyNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/KLCDMPP360.m3u8
+#EXTINF:-1 group-title="·综艺",河南梨园频道
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=19b20073428d6e7f09edda489fcdd957&wsTime=1701312022
 #EXTINF:-1  group-title="·山东有线",山东齐鲁
 http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 #EXTINF:-1  group-title="·山东有线",山东体育
@@ -117,6 +121,8 @@ http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
 http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
 #EXTINF:-1 group-title="•影视",4K剧场
 http://bp-caster.bestv.com.cn/513/1/video.m3u8
+#EXTINF:-1 group-title="•影视",湖南电视剧
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI4YmJjZDUyYjNlNTA0MDY2ODZlMzA4ZjIxMzE4YzhmJmVzPTE3MDEzMzIyMzQmdXVpZD1iMWZhNGQyYzA0ZDM4MzNhODc4OThhZjAzOGQwY2NlNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
 #EXTINF:-1 group-title="•影视",「斗鱼」「最人气港剧直播间」
 http://diyp.112114.xyz/douyu/4549169
 #EXTINF:-1 group-title="•影视",「斗鱼」「超清1」经典港剧天地
@@ -189,22 +195,6 @@ http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 group-title="•影视",「斗鱼」【经典小品2】
 http://diyp.112114.xyz/douyu/9067836
-#EXTINF:-1 group-title="•百视通",戏曲
-http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
-#EXTINF:-1 group-title="•百视通",爱乐 
-https://bp-caster.bestv.com.cn/930/1/video.m3u8
-#EXTINF:-1 group-title="•百视通",天籁
-https://bp-caster.bestv.com.cn/731/3/video.m3u8
-#EXTINF:-1 group-title="•百视通",音乐
-https://bp-caster.bestv.com.cn/894/3/video.m3u8
-#EXTINF:-1 group-title="•百视通",跨年
-http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
-#EXTINF:-1 group-title="•百视通",春晚
-http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
-#EXTINF:-1 group-title="•百视通",美食
-http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
-#EXTINF:-1 group-title="•百视通",读诗
-http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
 #EXTINF:-1 group-title="甄嬛传",01｜胤禛登基启选秀 三位小主秋入围
 https://vip.lz-cdn.com/20220317/261_b6f12296/index.m3u8
 #EXTINF:-1 group-title="甄嬛传",02｜芳若教引莞常在 甄嬛入住碎玉轩
