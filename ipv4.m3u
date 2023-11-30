@@ -43,10 +43,6 @@ https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c
 https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0bc51b40df-0-0-23a64a0dc546104d1ba498a41ff49540/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" group-title="·卫视",广东卫视
 https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="·卫视",广西卫视
-http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="·卫视",深圳卫视
-https://iptv.luas.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/a98f61eca9-0-0-c5ea37622772aa5d5e0d8838c68c61d9/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="·卫视",北京卫视
 http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="·卫视",东南卫视
@@ -77,12 +73,16 @@ https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bd
 https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5255a86445-0-0-4ce4f2e82145e9bc39b5b4ccd7cce4a0/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="·卫视",陕西卫视
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+https://iptv.luas.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/a98f61eca9-0-0-c5ea37622772aa5d5e0d8838c68c61d9/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="·卫视",黑龙江卫视
+https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="·卫视",云南卫视
 https://iptv.luas.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/3f1dcf4cf3-0-0-3f0618b5bab73c0ebb1be6c66ccbf65d/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="·卫视",宁夏卫视
 http://223.151.51.27:85//tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="·卫视",黑龙江卫视
-https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="·卫视",广西卫视
+http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="·卫视",深圳卫视
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="·卫视",「HK」凤凰卫视
 https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="·卫视",「HK」凤凰中文
