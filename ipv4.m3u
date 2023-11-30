@@ -46,7 +46,7 @@ https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0b
 #EXTINF:-1 tvg-name="广东卫视" group-title="·卫视",广东卫视
 https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="·卫视",北京卫视
-http://cfss.cc/ds/ysp/qp.php?id=bjws&Cf.m3u8
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1701307439&sign=10b4a0e36bc5cf982f9298fa78c418d7
 #EXTINF:-1 tvg-name="东南卫视" group-title="·卫视",东南卫视
 https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="·卫视",四川卫视
