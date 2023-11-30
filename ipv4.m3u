@@ -4,7 +4,7 @@ http://cfss.cc/ds/ysp/qp.php?id=cctv1&Cf.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="·央视",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="·央视",CCTV3
-http://cfss.cc/ds/ysp/qp.php?id=cctv3&Cf.m3u8
+http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="·央视",CCTV4
 http://cfss.cc/ds/ysp/qp.php?id=cctv4&Cf.m3u8
 #EXTINF:-1 tvg-name="CCTV5" group-title="·央视",CCTV5
@@ -44,7 +44,7 @@ https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0b
 #EXTINF:-1 tvg-name="广东卫视" group-title="·卫视",广东卫视
 https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="·卫视",北京卫视
-http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+http://cfss.cc/ds/ysp/qp.php?id=bjws&Cf.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="·卫视",东南卫视
 https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="·卫视",四川卫视
