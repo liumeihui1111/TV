@@ -57,8 +57,6 @@ https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8c
 http://61.162.100.238/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fe6c2e6f77f0a7d2f39368e05e57bed5&wsTime=1701496834&wsSession=eda9a5a33161a81ae1bb9397-170149001075826&wsIPSercert=1b3c7229b4f08275c895073b6c698c0e&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="海南卫视" group-title="·卫视",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="·卫视",湖北卫视
-https://live21-cjy.hbtv.com.cn/hbtv/hbtv-hbws.m3u8?auth_key=1701490632-f7d66e8090c811ee92fa213cd2d9805c-0-cb068d3c39c7d814a0106a2f15f4a3e4
 #EXTINF:-1 tvg-name="贵州卫视" group-title="·卫视",贵州卫视
 https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=1791d6f4fb237a58f52d5471c8100ae7&txTime=656A8876
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="·卫视",辽宁卫视
