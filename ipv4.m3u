@@ -48,17 +48,17 @@ http://live1.fjtv.net/dnpd/hd/live.m3u8?_upt=65a2cc641701490070
 #EXTINF:-1 tvg-name="安徽卫视" group-title="·卫视",安徽卫视
 http://113.207.84.200/session/61c75c1a-90b2-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8?token=03748e878bcc2d46c525dbc003f8b788_1701562644_1701562644
 #EXTINF:-1 tvg-name="山东卫视" group-title="·卫视",山东卫视
-https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
+http://l1.weihai.tv:8081/hls/oK0gP1n8e1a.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="·卫视",江西卫视
-https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170148086230317&token=fa5ef61e2f647f2a54885d7b44d44241
+https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170149009483395&token=fddcf77f6e19d384cfcc422cc80da074
 #EXTINF:-1 tvg-name="河北卫视" group-title="·卫视",河北卫视
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 #EXTINF:-1 tvg-name="河南卫视" group-title="·卫视",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6381b8a35789a0049b64bad283537374&wsTime=1701481829
+http://61.162.100.238/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fe6c2e6f77f0a7d2f39368e05e57bed5&wsTime=1701496834&wsSession=eda9a5a33161a81ae1bb9397-170149001075826&wsIPSercert=1b3c7229b4f08275c895073b6c698c0e&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="海南卫视" group-title="·卫视",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="·卫视",湖北卫视
-http://113.207.84.197/session/7bc6a2f0-90b3-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8?token=4ef82c041bb46b968afb83e48af173b6_1701560715_1701560715
+https://live21-cjy.hbtv.com.cn/hbtv/hbtv-hbws.m3u8?auth_key=1701490632-f7d66e8090c811ee92fa213cd2d9805c-0-cb068d3c39c7d814a0106a2f15f4a3e4
 #EXTINF:-1 tvg-name="贵州卫视" group-title="·卫视",贵州卫视
 https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=1791d6f4fb237a58f52d5471c8100ae7&txTime=656A8876
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="·卫视",辽宁卫视
@@ -71,8 +71,6 @@ http://stream.snrtv.com/sxbc-star-ptQSZ5.m3u8
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sq8R0.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="·卫视",黑龙江卫视
 http://223.151.51.27:85//tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" group-title="·卫视",云南卫视
-https://tvlive.yntv.cn/live/yunnanweishi/playlist_dvr_range-1701479160-3480.m3u8?wsSecret=b5500ed82aae0d38d8347b2cd6e89d73&wsTime=1701481544
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="·卫视",宁夏卫视
 http://223.151.51.27:85//tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西卫视" group-title="·卫视",广西卫视
@@ -85,8 +83,6 @@ https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 #EXTINF:-1 tvg-name="青海卫视" group-title="·卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=27db1d731701487308
-#EXTINF:-1 tvg-name="兵团卫视" group-title="·卫视",兵团卫视
-http://113.207.84.197/session/b866a118-90b5-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/bingtuanSD/__op/default/__f/1/v2M/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" group-title="·卫视",「HK」凤凰卫视
 https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="·卫视",「HK」凤凰中文
