@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="梨园频道" group-title="IPV6·央视",梨园频道
 http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=ff2bb625192feac2d32f1d87f217721a&wsTime=1705218014
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV1「IPV6」
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2" group-title="IPV6·央视",CCTV2「IPV6」
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV3" group-title="IPV6·央视",CCTV3「IPV6」
-https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="IPV6·央视",CCTV4「IPV6」
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV5" group-title="IPV6·央视",CCTV5「IPV6」
