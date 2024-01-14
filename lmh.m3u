@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="梨园频道" group-title="IPV6·央视",梨园频道
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=ff2bb625192feac2d32f1d87f217721a&wsTime=1705218014
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV1「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001022/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" group-title="IPV6·央视",CCTV2「IPV6」
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001220/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV3" group-title="IPV6·央视",CCTV3「IPV6」
